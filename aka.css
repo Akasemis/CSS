@@ -1,0 +1,27 @@
+#myTable {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-header {
+  display: table-row;
+  font-weight: bold;
+  background-color: #dddddd;
+}
+
+.table-row {
+  display: table-row;
+  background-color: #ffffff;
+}
+
+.table-cell {
+  display: table-cell;
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.header {
+  width: 20%;
+}
